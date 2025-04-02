@@ -1,7 +1,7 @@
 
 # @stexcore/http-status
 
-![NPM Version](https://img.shields.io/npm/v/@stexcore/http-status?style=flat-square) ![License](https://img.shields.io/npm/l/@stexcore/http-status?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.8.2-blue?style=flat-square)
+![NPM Version](https://img.shields.io/npm/v/@stexcore/http-status?style=flat-square) ![License](https://img.shields.io/github/license/stexcore/http-status.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.8.2-blue?style=flat-square)
 
 **A collection of HTTP status codes for general use in any HTTP framework.**  
 Simplifies the management of HTTP responses and errors with a clean and easy-to-use interface. Fully compatible with TypeScript and any HTTP framework.
